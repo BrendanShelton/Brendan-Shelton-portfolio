@@ -11,6 +11,7 @@ N/A
 
 Click on the links in the navigation bar to scroll down to the sections of the website. Click on the boxes in the "Work" section to go to the websites.
 
+https://brendanshelton.github.io/Brendan-Shelton-portfolio/
 ![screenshot of portfolio website](assets/images/screenshot.png)
 
 ## Credits
