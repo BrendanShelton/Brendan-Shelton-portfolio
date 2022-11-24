@@ -14,6 +14,10 @@ Click on the links in the navigation bar to scroll down to the sections of the w
 https://brendanshelton.github.io/Brendan-Shelton-portfolio/
 ![screenshot of portfolio website](assets/images/screenshot.png)
 
+## Technologies used
+
+HTML, CSS
+
 ## Credits
 
 N/A
