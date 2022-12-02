@@ -12,6 +12,7 @@ body {
 /*sets the font size of first heading*/
 h1 {
     font-size: 200%;
+    color: rgb(255, 255, 255);
 }
 
 /*styles the header and sets it to be a flex box*/
@@ -103,6 +104,10 @@ figure a {
     flex-direction: column;
     justify-content: center;
     text-decoration: none;
+    color: white;
+}
+
+figure p {
     color: white;
 }
 
