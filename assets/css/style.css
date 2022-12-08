@@ -136,6 +136,11 @@ figure a img {
     margin: 1% auto;
 }
 
+.repoLink {
+    margin-top: 1%;
+    text-decoration: underline;
+}
+
 /*styles the list of contact information*/
 #contact ul {
     display: flex;
