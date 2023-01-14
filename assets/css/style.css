@@ -88,6 +88,10 @@ h2 {
     margin: 1%;
 }
 
+h3 {
+    margin-top: 1%;
+}
+
 /*styles the boxes showing the projects*/
 figure {
     background-color: var(--light-blue);
