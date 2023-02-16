@@ -38,7 +38,7 @@ nav {
 /*styles the links in the navigation bar*/
 nav a {
     background-color: unset;
-    color: darkblue;
+    color: rgb(44, 157, 218);
     font-weight: bold;
     text-decoration: none;
   }
@@ -70,6 +70,16 @@ section {
 /*sets the margins of the content of the "about" section*/
 #biography {
     margin: 1% 4%;
+    flex-direction: column;
+    justify-content: right;
+    width: 70%;
+}
+
+#resume {
+    margin-top: 1%;
+    flex-direction: row;
+    justify-content: right;
+    width: 20%;
 }
 
 /*sets the margin and width of the area containing the boxes showing the projects*/
